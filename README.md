@@ -2,7 +2,7 @@
 An Android Wear Sample by Kotlin
 
 
-<img src="https://github.com/cagataymuhammet/AndroidWearSampleKotlin/sh.png"/>
+<img src="https://github.com/cagataymuhammet/AndroidWearSampleKotlin/blob/master/scr.png"/>
 
 
 # gradle
